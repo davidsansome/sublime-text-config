@@ -1,0 +1,33 @@
+[
+  // Python completion
+  { "keys": ["f2"], "command": "goto_python_definition"},
+  { "keys": ["shift+ctrl+r"], "command": "python_refactor_rename"},
+  { "keys": ["super+y"], "command": "python_get_documentation"},
+
+  // Upper/lower case
+  { "keys": ["ctrl+u"], "command": "upper_case"},
+  { "keys": ["ctrl+shift+u"], "command": "lower_case" },
+
+  // Groups
+  { "keys": ["ctrl+e", "o"], "command": "other_group" },
+  { 
+    "keys": ["ctrl+e", "3"],
+    "command": "set_layout",
+    "args":
+    {
+      "cols": [0.0, 0.5, 1.0],
+      "rows": [0.0, 1.0],
+      "cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+    }
+  },
+  {
+    "keys": ["ctrl+e", "0"],
+    "command": "set_layout",
+    "args":
+    {
+      "cols": [0.0, 1.0],
+      "rows": [0.0, 1.0],
+      "cells": [[0, 0, 1, 1]]
+    }
+  }
+]

@@ -1,0 +1,6 @@
+[submodule "Packages/SublimeLinter"]
+	path = Packages/SublimeLinter
+	url = git://github.com/Kronuz/SublimeLinter.git
+[submodule "Packages/SublimeRope"]
+	path = Packages/SublimeRope
+	url = git://github.com/JulianEberius/SublimeRope.git
