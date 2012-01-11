@@ -4,3 +4,9 @@
 [submodule "Packages/SublimeRope"]
 	path = Packages/SublimeRope
 	url = git://github.com/JulianEberius/SublimeRope.git
+[submodule "Packages/Protobuf"]
+	path = Packages/Protobuf
+	url = https://github.com/jrk/protobuf.sublime-package
+[submodule "Packages/CMake"]
+	path = Packages/CMake
+	url = https://github.com/jcowgar/CMake-Sublime-Package.git
