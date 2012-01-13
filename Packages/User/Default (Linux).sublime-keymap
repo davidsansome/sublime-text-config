@@ -8,6 +8,9 @@
   { "keys": ["ctrl+u"], "command": "upper_case"},
   { "keys": ["ctrl+shift+u"], "command": "lower_case" },
 
+  // Switch header/implementation
+  { "keys": ["f4"], "command": "switch_file", "args": {"extensions": ["cpp", "cxx", "cc", "c", "hpp", "hxx", "h", "ipp", "inl", "m", "mm"]} },
+
   // Groups
   { "keys": ["ctrl+e", "o"], "command": "other_group" },
   { 

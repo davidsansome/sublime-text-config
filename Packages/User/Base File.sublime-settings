@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"pep8": false,
+	"rulers":
+	[
+		80
+	],
+	"sublimelinter_delay": 2,
+	"sublimelinter_gutter_marks": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}
