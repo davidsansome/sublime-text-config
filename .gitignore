@@ -1,0 +1,59 @@
+Backup/
+Installed Packages/
+Packages/ASP/
+Packages/ActionScript/
+Packages/Alignment/
+Packages/AppleScript/
+Packages/Batch File/
+Packages/C#/
+Packages/C++/
+Packages/CSS/
+Packages/Clojure/
+Packages/Color Scheme - Default/
+Packages/D/
+Packages/Default/
+Packages/Diff/
+Packages/Erlang/
+Packages/Git/
+Packages/Go/
+Packages/Graphviz/
+Packages/Groovy/
+Packages/HTML/
+Packages/Haskell/
+Packages/Java/
+Packages/JavaScript/
+Packages/LaTeX/
+Packages/Language - English/
+Packages/Lisp/
+Packages/Lua/
+Packages/Makefile/
+Packages/Markdown/
+Packages/Matlab/
+Packages/NSIS/
+Packages/OCaml/
+Packages/Objective-C/
+Packages/PHP/
+Packages/Package Control/
+Packages/Perl/
+Packages/Python/
+Packages/R/
+Packages/Rails/
+Packages/Regular Expressions/
+Packages/RestructuredText/
+Packages/Ruby/
+Packages/SQL/
+Packages/Scala/
+Packages/ShellScript/
+Packages/SideBarGit/
+Packages/TCL/
+Packages/Text/
+Packages/Textile/
+Packages/Theme - Default/
+Packages/User/Default (OSX).sublime-keymap
+Packages/User/Default (Windows).sublime-keymap
+Packages/Vintage/
+Packages/XML/
+Packages/YAML/
+Pristine Packages/
+Settings/
+*.pyc
