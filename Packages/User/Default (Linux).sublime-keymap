@@ -32,5 +32,16 @@
       "rows": [0.0, 1.0],
       "cells": [[0, 0, 1, 1]]
     }
-  }
+  },
+
+  // Alignment
+  { "keys": ["ctrl+shift+a"], "command": "alignment" },
+
+  // Back/forward
+  { "keys": ["alt+left"], "command": "navigation_history_back"},
+  { "keys": ["alt+right"], "command": "navigation_history_forward"},
+
+  // Tabs back/forward
+  { "keys": ["ctrl+tab"], "command": "next_view" },
+  { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
 ]
