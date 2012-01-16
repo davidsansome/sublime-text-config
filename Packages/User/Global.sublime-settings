@@ -1,14 +1,16 @@
 {
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-  "folder_exclude_patterns": [
-    ".*"
-  ],
-  "file_exclude_patterns": [
+  "file_exclude_patterns":
+  [
     "*~",
     ".*",
     "*.pyc"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".*"
+  ],
+  "ignored_packages":
+  [
+    "Vintage"
   ]
 }
