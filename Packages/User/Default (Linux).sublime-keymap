@@ -43,5 +43,8 @@
 
   // Tabs back/forward
   { "keys": ["ctrl+tab"], "command": "next_view" },
-  { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
+  { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+  // Save all
+  { "keys": ["shift+ctrl+s"], "command": "save_all" }
 ]
