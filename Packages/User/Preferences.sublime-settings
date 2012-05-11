@@ -1,0 +1,34 @@
+{
+	"auto_complete": false,
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*~",
+		".*",
+		"*.pyc"
+	],
+	"folder_exclude_patterns":
+	[
+		".*",
+		"_build"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"pep8": false,
+	"rulers":
+	[
+		80
+	],
+	"shift_tab_unindent": true,
+	"sublimelinter_delay": 2,
+	"sublimelinter_gutter_marks": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"auto_match_enabled": false
+}
