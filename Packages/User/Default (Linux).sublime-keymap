@@ -4,6 +4,9 @@
   { "keys": ["shift+ctrl+r"], "command": "python_refactor_rename"},
   { "keys": ["super+y"], "command": "python_get_documentation"},
 
+  // Ctrl+space for auto completion
+  { "keys": ["ctrl+space"], "command": "auto_complete" },
+
   // Upper/lower case
   { "keys": ["ctrl+u"], "command": "upper_case"},
   { "keys": ["ctrl+shift+u"], "command": "lower_case" },
